@@ -11,4 +11,4 @@ A [Hex Casting](https://github.com/FallingColors/HexMod) addon/library that adds
 
 ## Fork
 
-This if inofficial fork for NeoForge 1.21.1.
+This is inofficial fork for NeoForge 1.21.1.
